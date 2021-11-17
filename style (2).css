@@ -20,7 +20,7 @@ a{
     color: rgb(4, 0, 255);
 }
 body{
-    background-image: url('../img/buenosairesnoite1.jpg');
+    background-image: url('./img/buenosairesnoite1.jpg');
     padding-top: 10vh;
     background-size:100% ;
     background-position-y :-170px; ;
